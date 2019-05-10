@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="htmlParse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/htmlParse_jar</output-path>
+    <root id="archive" name="htmlParse.jar">
+      <element id="module-output" name="htmlParse" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
